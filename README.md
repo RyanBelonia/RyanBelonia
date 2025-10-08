@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Ryan Belônia
+# Ryan Belônia
 
 🎓 Estudante do curso de **Gestão e Programação de Sistemas Informáticos**  
 💻 Tenho experiência em **C#**, **SQL** e **desenvolvimento web**.  
